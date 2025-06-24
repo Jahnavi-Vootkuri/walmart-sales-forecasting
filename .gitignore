@@ -1,0 +1,4 @@
+venv/
+.venv/
+test.py
+.DS_Store
