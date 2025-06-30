@@ -42,17 +42,6 @@ This project answers business-critical questions through data analysis and forec
 - 🔮 A **Prophet-based time-series model** was used to forecast sales for the upcoming 6 weeks.
 - 📈 An **interactive Power BI dashboard** was created to allow business users to explore trends by store, department, and time.
 
----
-
-## 📁 Project Structure
-walmart-sales-forecasting/
-├── data/ # Raw data and forecast output
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-├── sql/ # SQL queries for KPIs
-├── dashboards/screenshots/ # Power BI dashboard screenshots
-├── reports/ # Project summary and documentation
-└── README.md # Project overview
-
 
 ---
 
